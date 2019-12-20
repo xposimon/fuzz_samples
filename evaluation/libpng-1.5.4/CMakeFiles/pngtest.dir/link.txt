@@ -1,0 +1,1 @@
+/usr/bin/cc  -O2 -g -DNDEBUG   CMakeFiles/pngtest.dir/pngtest.o  -o pngtest -rdynamic libpng15.so.15.4.0 -lz -lm -Wl,-rpath,/home/xposimon/Desktop/evaluation/libpng-1.5.4 

@@ -1,0 +1,19 @@
+# Hashes of file build rules.
+8d9640eed43b7b43ab23802852149ff6 CMakeFiles/genfiles
+64a1d8370e592f9d446e2f8b371bfb99 CMakeFiles/genprebuilt
+8d9640eed43b7b43ab23802852149ff6 CMakeFiles/gensym
+8d9640eed43b7b43ab23802852149ff6 CMakeFiles/genvers
+8d9640eed43b7b43ab23802852149ff6 CMakeFiles/symbol-check
+b0df91bdbd95f1b004fb63add6d874c3 libpng.sym
+813149a531b2d680e9667cf851fc386a libpng.vers
+d561cff053b73624f86f03549b85d615 pnglibconf.c
+414c47edbdf4bf6790da9dbc742a59c4 pnglibconf.h
+8a8d1eabea8fd441c770dc025c7b1f4c pnglibconf.out
+51e352ca3eb9706e8f4c267fac550d66 pngprefix.h
+60fe07d505fa47e10aff34fbb1afd936 scripts/intprefix.out
+737e7596846b0f222eb7d86bcbc28f4d scripts/pnglibconf.c
+305b6847aa5bef0b5d475617f3fbc334 scripts/prefix.out
+1d9d3e53b890820ac622fb4fbbe79331 scripts/sym.out
+b75c024ed0bf08cf72db74799ed71424 scripts/symbols.chk
+8eb04e3ea21ba2667d70e0b0d7b79959 scripts/symbols.out
+8952f8947e09b46827a4abbdc1ba8e3f scripts/vers.out

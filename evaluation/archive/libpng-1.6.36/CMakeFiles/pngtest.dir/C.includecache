@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xposimon/Desktop/evaluation/archive/libpng-1.6.36/png.h
+pnglibconf.h
+/home/xposimon/Desktop/evaluation/archive/libpng-1.6.36/pnglibconf.h
+pngconf.h
+/home/xposimon/Desktop/evaluation/archive/libpng-1.6.36/pngconf.h
+
+/home/xposimon/Desktop/evaluation/archive/libpng-1.6.36/pngconf.h
+limits.h
+-
+stddef.h
+-
+stdio.h
+-
+setjmp.h
+-
+time.h
+-
+
+/home/xposimon/Desktop/evaluation/archive/libpng-1.6.36/pnglibconf.h
+
+/home/xposimon/Desktop/evaluation/archive/libpng-1.6.36/pngtest.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+png.h
+/home/xposimon/Desktop/evaluation/archive/libpng-1.6.36/png.h
+zlib.h
+/home/xposimon/Desktop/evaluation/archive/libpng-1.6.36/zlib.h
+time.h
+-
+
