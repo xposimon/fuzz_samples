@@ -1,0 +1,10 @@
+/home/xposimon/Desktop/evaluation/libpng-1.2.55/CMakeFiles/rebuild_cache.dir
+/home/xposimon/Desktop/evaluation/libpng-1.2.55/CMakeFiles/edit_cache.dir
+/home/xposimon/Desktop/evaluation/libpng-1.2.55/CMakeFiles/install/strip.dir
+/home/xposimon/Desktop/evaluation/libpng-1.2.55/CMakeFiles/list_install_components.dir
+/home/xposimon/Desktop/evaluation/libpng-1.2.55/CMakeFiles/install.dir
+/home/xposimon/Desktop/evaluation/libpng-1.2.55/CMakeFiles/png12.dir
+/home/xposimon/Desktop/evaluation/libpng-1.2.55/CMakeFiles/test.dir
+/home/xposimon/Desktop/evaluation/libpng-1.2.55/CMakeFiles/png12_static.dir
+/home/xposimon/Desktop/evaluation/libpng-1.2.55/CMakeFiles/pngtest.dir
+/home/xposimon/Desktop/evaluation/libpng-1.2.55/CMakeFiles/install/local.dir

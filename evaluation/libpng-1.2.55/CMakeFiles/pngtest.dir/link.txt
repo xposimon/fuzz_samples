@@ -1,0 +1,1 @@
+/usr/bin/cc  -O2 -g -DNDEBUG   CMakeFiles/pngtest.dir/pngtest.o  -o pngtest -rdynamic libpng12.so.0.55.0 -lz -lm -Wl,-rpath,/home/xposimon/Desktop/evaluation/libpng-1.2.55 
